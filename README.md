@@ -5,23 +5,10 @@ Deploy2: http://airc2c.com/
 
 ---
 
-- **Nombre del proyecto:** **_Digital Booking - Airc2c_**
+- **Nombre del proyecto:** **_Digital Booking -**
 - **Resumen general del proyecto:** El proyecto consiste en el desarrollo de una aplicación completa para servicios de hospedaje, aplicando los conocimientos adquiridos durante la primera etapa de la carrera. En él, se pueden buscar y reservar diferentes tipos de alojamientos, y se pueden crear nuevos a través del panel de administración. La página permite tres flujos de navegación, ya sea como usuario no registrado, usuario registrado o administrador. Para realizar una reserva, se debe estar registrado e iniciar sesión. Se encuentran implementados filtros para buscar alojamientos por ciudad y/o rango de fechas, como así también por categoría. La realización de este proyecto simula un entorno de trabajo real donde se utilizan metodologías ágiles y se deben cumplir los plazos acordados para los sprints.
 
-## Equipo
-
-- **Giovanny Cárdenas**
-
-- **Martha de La Ossa**
-
-- **Henry Gutierrez Foronda**
-
-- **Cristian Diaz**
-
-- **Virginia Sofía Iójimo**
-
-- **Carlos Ignacio Justel**<br>
-  En el proyecto integrador me desempeñé principalmente en el área de Frontend utilizando React, generando una web responsive dando estilos con CSS. Colaboré en gran parte del Backend utilizando tecnologías como Spring Boot, Spring Security con JWT, Hibernate, Swagger para documentar, entre otras. Realicé pruebas sencillas con Postman para corroborar endpoints de la API y contribuí en ciertas relaciones de la base de datos con MySQL.
+## juan Carlos Gutierrez Huerfano
 
 ## Tecnologías utilizadas
 
